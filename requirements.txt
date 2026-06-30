@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.14.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+accelerate>=0.25.0
+tiktoken>=0.5.1  # only needed for migration
